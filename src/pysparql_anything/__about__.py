@@ -11,7 +11,7 @@ Date: 09/09/2024
 __version__ = "0.9.0.3"
 
 # Version of SPARQL Anything to download:
-__SparqlAnything__ = "0.9.0"
+__SparqlAnything__ = "v1.0-DEV.6"
 
 # Path to the SPARQL Anything main class within the executable jar:
 __jarMainPath__ = "io.github.sparqlanything.cli.SPARQLAnything"
